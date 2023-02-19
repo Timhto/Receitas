@@ -1,0 +1,37 @@
+.receitas-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .receita {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .receita img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .receita ul {
+    list-style: none;
+    padding: 0;
+    font-size: 20px;
+  }
+  
+  .receita ul li {
+    margin-bottom: 5px;
+  }
+  
+  .receita p {
+    margin-top: 10px;
+    font-size: 20;
+  }
+  p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  
