@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(243, 174, 95);
+  color: #000000;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  position: center;
+  }
+
+.logo {
+  margin-right: 10px;  
+}
+main{
+  margin-top: 150px;
+  margin-bottom: 332px;
+}
+
+h1,h2 {
+  font-size: 3rem;
+  margin-top: 1rem;
+  font-weight: normal;
+}
+footer {
+  background-color: rgba(0, 0, 0, 0.158);
+  color: aliceblue;
+  position:static;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+}
+.navbar-nav {
+  font-size: large;
+ 
+}
+button {
+  position: relative;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  background-color: #e95b2363;
+  color: #000000;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+nav ul li a.active {
+  color: red;
+  font-weight: bold;
+}
+
+
+
+  
+  
